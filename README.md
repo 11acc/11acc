@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![true happiness](./lain_pizza.gif)
 
 <!--
 **11acc/11acc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
